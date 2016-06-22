@@ -1,5 +1,5 @@
 # KSPController
-Arduino control software for a custom Kerbal Space Program controller
+Arduino software for a custom Kerbal Space Program controller
 
 Components:
 3-axis analog attitude control joystick
