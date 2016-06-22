@@ -8,6 +8,6 @@ Components:
 Analog throttle
 2 Buttons (Stage, Abort)
 
-Talks with KSP via SerialIO plugin for KSP. Much of the code is copied from SerialIO example:
+Talks with KSP via SerialIO plugin for KSP. Much of the code is copied from SerialIO example (CC BY License):
 
 http://forum.kerbalspaceprogram.com/index.php?/topic/60281-hardware-plugin-arduino-based-physical-display-serial-port-io-tutorial-22-april/
