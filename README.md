@@ -1,5 +1,5 @@
 # KSPController
-Arduino software for a custom Kerbal Space Program controller
+Arduino software for a custom DIY Kerbal Space Program controller.
 
 ### Components:
 * 3-axis analog attitude control joystick
@@ -8,4 +8,4 @@ Arduino software for a custom Kerbal Space Program controller
 * Analog throttle
 * 2 Buttons (Stage, Abort)
 
-Talks with KSP via SerialIO plugin for KSP. Much of the code is copied from SerialIO [example](http://forum.kerbalspaceprogram.com/index.php?/topic/60281-hardware-plugin-arduino-based-physical-display-serial-port-io-tutorial-22-april/) (CC BY License).
+Talks with KSP via Serial-IO plugin for KSP. Much of the code is copied from Serial-IO [example](http://forum.kerbalspaceprogram.com/index.php?/topic/60281-hardware-plugin-arduino-based-physical-display-serial-port-io-tutorial-22-april/) (CC BY License).
